@@ -2,7 +2,7 @@
 layout: plain-markdown
 ---
 
-There are currently no new vacancies.
+TI Solutions AG is currently seeking applicants for the post as ###QA Project Manager [position.md].
 
 
-TI Solutions AG, 2020
+TI Solutions AG, 2021
