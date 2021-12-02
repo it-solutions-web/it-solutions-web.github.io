@@ -24,7 +24,7 @@
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
     - Number of channels per unit: 8 fully differential (extendable)
-    - Trigger / sync output: external instrument and slave synchronization
+    - Trigger / sync output: external instrument and synchronization
     - Sample rate: 1 Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
     - AWG memory depth: ">2 M samples (2 s)"
@@ -78,6 +78,8 @@
   button: List
   teaser: The latest publications on TI stimulation can be found here.
   body: |
+    von Conta J, Kasten FH, Ćurčić-Blake B, Aleman A, Thielscher A, Herrmann S. *Interindividual variability of electric fields during transcranial temporal interference stimulation (tTIS).* Scientific Reports. 2021;11:20357. <a href="https://www.nature.com/articles/s41598-021-99749-0" target="_blank" >doi.org/10.1038/s41598-021-99749-0</a>
+    
     Alekseichuk I, Mantell K, Shirinpour S, Opitz A. *Comparative modeling of transcranial magnetic and electric stimulation in mouse, monkey, and human.* Neuroimage. 2019;194:136‐148. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811919302320?via%3Dihub/" target="_blank" >doi:10.1016/j.neuroimage.2019.03.044</a>
 
     Esmaeilpour Z., Kronberg G., Parra LC, Bikson M. *Temporal interference stimulation targets deep brain regions by modulating neural oscillations.* bioRxiv. 2019;12.25.888412. <a href="https://www.biorxiv.org/content/10.1101/2019.12.25.888412v1" target="_blank" >doi:10.1101/2019.12.25.888412</a>
