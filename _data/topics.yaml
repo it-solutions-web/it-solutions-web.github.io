@@ -10,6 +10,24 @@
    The neurostimulation devices under development will support both alternating current and TI stimulation, 
    multiple stimulation channels, a wide carrier-frequency range, flexible modulation, magnetic resonance imaging 
    and electroencephalogram recording compatibility, and more. 
+   
+- title: TI Solutions Early Adopter Program (EAP)
+  closed: true
+  teaser: TI Solutions aims to facilitate research into TI-based applications. We are pulling together a selected group of researchers as part of our Early Adopter Program who are interested in applying our investigational TI stimulation device as part of their research and/or clinical studies. 
+  button: Details
+  body: |
+   <h4>What is the TI Solutions EAP?</h4>
+   The EAP will play a pivotal role in fostering exploration of the potential of TI through flexible and highly controlled stimulations. Groups participating in the EAP will be able to use our investigational device in their research projects, enabling them to advance the existing knowledge base through *in vitro* and *in vivo* studies. In turn, TI Solutions will gain insights into the researchers’ needs, which will help drive development and optimization of the specifications for future medical devices.
+   <h4>How can I become part of the EAP?</h4>
+   Researchers interested in participating in TI Solution's EAP should [contact us](mailto:eap@temporalinterference.com) to arrange a conference call for initial discussion before submitting a written proposal. Proposals will be evaluated by the Board of TI Solutions for the scientific significance, topicality, originality, and feasibility of the project. Projects that are approved by the Board enter the EAP.
+   
+   **Note that each study admitted to the program must provide proof that the study has gained ethics approval from the appropriate regulatory institution as a prerequisite for receiving the TI stimulation device for the proposed research project.**
+   
+   The first TI devices will become available at the end of February 2022. Groups that are part of the EAP can lease a 4-channel device (the 8-channel device is available on special request) for CHF 500 / month; maintenance and support is included in the lease price. The MRI-compatible version is also available, but at an additional cost of CHF 100 per month. The minimal lease period is six months.
+   <h4>Additional Services</h4>
+   The IT’IS Foundation offers specialized services for the development of experiment-specific graphical user interfaces to support TI planning and simulations and provides guidance on research protocols and experimental design as needed.
+   
+   The specifications of the device are summarized <a class="uk-link-text" href="/#topic4" uk-scroll="offset: 120" >here<a>.
  
 - title: Device Description
   closed: true
