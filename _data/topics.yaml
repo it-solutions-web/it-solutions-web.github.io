@@ -63,7 +63,7 @@
     - Optical serial port: connecting to EEG instrument
     - Environment: 3T MRI, +5 to +40°C
     - Regulatory: FDA / EC (pending)
-    ![Investigational Stimulation Device](/assets/img/TISAG_setup3.png "Investigational Stimulation Device")
+   ![Investigational Stimulation Device](/assets/img/TISAG_setup3.png "Investigational Stimulation Device")
 
 - title: TI Planning Tools
   body: |
