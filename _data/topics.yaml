@@ -64,7 +64,7 @@
     - Environment: 3T MRI, +5 to +40°C
     - Regulatory: FDA / EC (pending)
   image:
-    href: /assets/img/TISAG_setup3.png
+    src: /assets/img/TISAG_setup3.png
     caption: Investigational Stimulation Device
 
 - title: TI Planning Tools

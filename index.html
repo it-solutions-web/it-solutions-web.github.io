@@ -29,7 +29,13 @@ layout: plain
                             <td class="uk-table-expand">{{ item[1] }}</td></tr>
                     {% endfor %}
                 {% endfor %}
-                </table>
+            </table>
+            {% endif %}
+            {% if topic.image %}
+            <div class="uk-image">
+                <img data-src="{{ topic.image.src }}" uk-img>
+                <div>{{ topic.image.caption }}</div>
+            </div>
             {% endif %}
             </div>
         </div>
