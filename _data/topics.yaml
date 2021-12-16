@@ -38,11 +38,11 @@
     - Specifications:
     - Frequency range: DC - 100 kHz
     - Output voltage: ~30 V (60 V differential)
-    - Output current: 10 mA max differential (load capacitance compensation)
+    - Output current: 14 mA max differential (load capacitance compensation)
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
     - Number of channels per unit: 8 fully differential (extendable)
-    - Trigger / sync output: external instrument and synchronization
+    - Trigger / sync output: external instrument and synchronization (optical)
     - Sample rate: 1 Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
     - AWG memory depth: ">2 M samples (2 s)"
@@ -53,10 +53,10 @@
     - Ground current monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
-    - Emergency stop button: '<span uk-icon="icon: check"></span>'
-    - Current limit: frequency dependent current limit (latched)
+    - Emergency stop button: optical, suitable for MRI environments
+    - Current limit: frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
     - Trigger input: yes (digital) optically isolated
-    - EEG level output of excitation: '<span uk-icon="icon: check"></span>'
+    - EEG level output of excitation: yes (optically isolated)
     - Filtering - RF: yes LPF >30 dB rejection plus traps
     - Control unit: optical connection to control PC
     - Firmware update: USB C
