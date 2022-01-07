@@ -37,7 +37,7 @@
   list:
     - Specifications:
     - Frequency range: DC - 100 kHz
-    - Output voltage: ~30 V (60 V differential)
+    - Output voltage: ~±30 V (60 V differential)
     - Output current: 14 mA max differential (load capacitance compensation)
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
@@ -56,8 +56,8 @@
     - Emergency stop button: optical, suitable for MRI environments
     - Current limit: frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
     - Trigger input: yes (digital) optically isolated
-    - EEG level output of excitation: yes (optically isolated)
-    - Filtering - RF: yes LPF >30 dB rejection plus traps
+    - EEG level output of excitation envelope: yes (optically isolated)
+    - Filtering - RF: yes LPF >30 dB rejection plus 3T MRI signal traps
     - Control unit: optical connection to control PC
     - Firmware update: USB C
     - Optical serial port: connecting to EEG instrument
