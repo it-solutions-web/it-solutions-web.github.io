@@ -41,7 +41,7 @@
     - Output current: 14 mA max differential (load capacitance compensation)
     - Battery - run time: ">6 hrs active time"
     - Charging: USB C
-    - Number of channels per unit: 8 fully differential (extendable)
+    - Number of channels per unit: 8, fully differential (extendable)
     - Trigger / sync output: external instrument and synchronization (optical)
     - Sample rate: 1 Msps
     - Waveforms: sinusoid, phase modulation, frequency modulation, AWG
@@ -55,7 +55,7 @@
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
     - Emergency stop button: optical, suitable for MRI environments
     - Current limit: frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
-    - Trigger input: yes (digital) optically isolated
+    - Trigger input: yes (digital), optically isolated
     - EEG level output of excitation envelope: yes (optically isolated)
     - Filtering - RF: yes LPF >30 dB rejection plus 3T MRI signal traps
     - Control unit: optical connection to control PC
