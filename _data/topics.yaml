@@ -59,7 +59,6 @@
     - EEG level output of excitation envelope: yes (optically isolated)
     - Filtering - RF: yes LPF >30 dB rejection plus 3T MRI signal traps
     - Control unit: optical connection to control PC
-    - Firmware update: USB C
     - Optical serial port: connecting to EEG instrument
     - Environment: 3T MRI, +5 to +40°C
     - Regulatory: FDA / EC (pending)
