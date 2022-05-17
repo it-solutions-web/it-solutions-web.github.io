@@ -1,3 +1,10 @@
+- title: News
+  closed: true
+  button: List
+  teaser: Important updates and developments on TI related research can be found here.
+  body: |
+    August, 27, 2020*:* A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy" >UK DRI website</a>. 
+
 - title: The Company
   body: |
     TI Solutions AG develops high-quality and flexible stimulation devices and planning tools 
@@ -123,12 +130,3 @@
     Dmochowski J, Bikson M. *Noninvasive Neuromodulation Goes Deep.* Cell. 2017;169(6):977‐978. <a href="https://www.cell.com/cell/fulltext/S0092-8674(17)30577-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417305779%3Fshowall%3Dtrue/" target="_blank" >doi:10.1016/j.cell.2017.05.017</a>
 
     Grossman N, Bono D, Dedic N, et al. *Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields.* Cell. 2017;169(6):1029‐1041.e16. <a href="https://www.cell.com/cell/fulltext/S0092-8674(17)30584-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417305846%3Fshowall%3Dtrue/" target="_blank" >doi:10.1016/j.cell.2017.05.024</a>
-
-
-- title: News
-  closed: true
-  button: List
-  teaser: Important updates and developments on TI related research can be found here.
-  body: |
-    August, 27, 2020*:* A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy" >UK DRI website</a>. 
-
