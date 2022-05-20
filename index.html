@@ -21,6 +21,13 @@ layout: plain
             {% if topic.body %}
                 {{ topic.body | markdownify }}
             {% endif %}
+            {% if topic.news %}
+                {% for item in topic.news %}
+                <h4>{{ item.title | markdownify }}</h4>
+                <div><i>{{ item.date }}</i></div>
+                <div>{{ item.body | markdownify}}</div>
+                {% endfor %}
+            {% endif %}    
             {% if topic.list %}
             <table class="uk-table uk-table-striped uk-table-small">
                 {% for spec in topic.list %}
