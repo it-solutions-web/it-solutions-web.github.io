@@ -129,11 +129,20 @@ footer {
 h3 {
     font-size: 1.45rem;
 }
-    
-h4.person-name {
-    color: #008484;
+
+h4 {
+    margin-top: 15px;
     font-size: 1.2rem;
     margin-bottom: 5px;
+}
+
+h4 > p {
+    margin: 0;
+}
+    
+h4.person-name {
+    margin-top: 0px;
+    color: #008484;
 }
 
 .ti-topic a:link {
