@@ -23,9 +23,11 @@ layout: plain
             {% endif %}
             {% if topic.news %}
                 {% for item in topic.news %}
-                <h4>{{ item.title | markdownify }}</h4>
-                <div><i>{{ item.date }}</i></div>
-                <div>{{ item.body | markdownify}}</div>
+                    <div class="uk-margin-bottom">
+                        <h4>{{ item.title | markdownify }}</h4>
+                        <div><i>{{ item.date }}</i></div>
+                        <div>{{ item.body | markdownify}}</div>
+                    </div>
                 {% endfor %}
             {% endif %}    
             {% if topic.list %}
