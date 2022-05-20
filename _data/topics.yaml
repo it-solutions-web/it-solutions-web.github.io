@@ -1,5 +1,4 @@
 - title: News
-  closed: true
   button: List
   teaser: Important updates and developments on TI related research can be found here.
   body: |
@@ -9,11 +8,6 @@
     src: /assets/img/2205_TI_stimulation_web.jpg
     caption: TIBS-R set-up
 
-- title: News
-  closed: true
-  button: List
-  teaser: Important updates and developments on TI related research can be found here.
-  body: |
     August, 27, 2020*:* A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy" >UK DRI website</a>. 
 
 - title: The Company
