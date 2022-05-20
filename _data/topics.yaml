@@ -1,13 +1,22 @@
 - title: News
-  body: |
-    May, 20, 2022*:* 
-    <h4>TIBS-R & TIBS-R-MRI: Final Prototype of New TI Technology</h4> 
-    Today, TI Solutions released a demo of the final prototype device for advanced research in temporal interference brain stimulation. The device, developed in collaboration with the IT’IS Foundation, delivers high-precision current on eight channels from 0 Hz to >100 kHz. In the next few weeks the team will finalize the documentation, obtain electrical safety certification, and define the end-to-end testing protocol to be applied for each device. In parallel, the IT’IS Foundation will be completing an example of the control and monitoring software and the TI planning tool. 
-  image:
-    src: /assets/img/2205_TI_stimulation_web.jpg
-    caption: TIBS-R set-up
-
-    August, 27, 2020*:* A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy" >UK DRI website</a>. 
+  news:
+    - title: TIBS-R & TIBS-R-MRI: Final Prototype of New TI Technology
+      date: May, 20, 2022
+      body: |
+        Today, TI Solutions released a demo of the final prototype device for advanced research in temporal interference brain stimulation.
+        The device, developed in collaboration with the IT’IS Foundation, delivers high-precision current on eight channels from 0 Hz to 
+        >100 kHz. In the next few weeks the team will finalize the documentation, obtain electrical safety certification, and 
+        define the end-to-end testing protocol to be applied for each device. In parallel, the IT’IS Foundation will be completing 
+        an example of the control and monitoring software and the TI planning tool. 
+    
+        <img src="/assets/img/2205_TI_stimulation_web.jpg"/>
+        
+    - title: Professor Nir Grossman received award
+      date: August, 27, 2020
+      body: |
+        A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to
+        accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. 
+        Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy">UK DRI website</a>. 
 
 - title: The Company
   body: |
