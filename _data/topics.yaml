@@ -66,7 +66,7 @@
     - Charging: USB C
     - Number of channels per unit: 8, fully differential (extendable)
     - Trigger / sync output: external instrument and synchronization (optical)
-    - Sample rate: 1 Msps
+    - Sample rate: 1 MS/s
     - Waveforms: sinusoid, phase modulation, frequency modulation, Arbitrary Waveform Generator (AWG)
     - AWG memory depth: ">2 Msamples (2 s)" (in future release only)
     - Dynamic range: ">60 dB (10 µA to 10 mA)"
@@ -75,7 +75,7 @@
     - 2nd order intermodulation worst case: -70 dBc (typical use case -90 dBc)
     - Ground reference: '<span uk-icon="icon: check"></span>'
     - Ground current monitoring: '<span uk-icon="icon: check"></span>'
-    - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
+    - Monitoring - currents / voltages: yes synchronous sampling / logging of stimulation
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
     - Emergency stop button: optical, suitable for MRI environments
     - Peak current limit (safety): frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
