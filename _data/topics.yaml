@@ -60,7 +60,7 @@
   list:
     - Specifications:
     - Frequency range: DC - 100 kHz
-    - Output voltage: ~±30 V (60 V differential)
+    - Output peak voltage: ~±30 V (60 V differential)
     - Output peak current: 5 mA max at ≤1.8 KHz, 7 mA max at 2.5 kHz, 14 mA max at ≥5 kHz (differential load capacitance compensation)
     - Battery run time: ">4 hrs active time"
     - Charging: USB C
