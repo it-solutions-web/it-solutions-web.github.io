@@ -78,7 +78,7 @@
     - Monitoring - currents / voltages: yes synchronous sampling / logging of treatment
     - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
     - Emergency stop button: optical, suitable for MRI environments
-    - Current limit (safety): frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
+    - Peak current limit (safety): frequency dependent current limit (latched), low frequency limit 5 mA, increasing above 2.5 kHz to 14 mA
     - Trigger input: yes (digital, optical)
     - EEG level output of excitation envelope: yes (optical)
     - Filtering - RF: yes LPF >30 dB rejection plus 3T MRI signal traps
