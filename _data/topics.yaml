@@ -59,32 +59,32 @@
    <h4 {Specifications}</h4>
   list:
     - Preliminary Specifications:
-    - Frequency range: DC - 100 kHz
-    - Output peak voltage: ~±30 V (60 V differential)
-    - Output peak current: 5 mA max at ≤1.8 KHz, 7 mA max at 2.5 kHz, 14 mA max at ≥5 kHz (differential load capacitance compensation)
-    - Battery run time: ">4 hrs active time"
+    - Frequency Range: DC - 100 kHz
+    - Peak Output Voltage: ~±30 V (60 V differential)
+    - Peak Output Current: 5 mA max at ≤1.8 KHz, 7 mA max at 2.5 kHz, 14 mA max at ≥5 kHz (differential load capacitance compensation)
+    - Battery Run Time: ">4 hrs active time"
     - Charging: USB-C
-    - Number of channels per unit: 8, fully differential (extendable)
-    - Trigger / sync output: external instrument and synchronization (optical)
-    - Sample rate: 1 MS/s
-    - Waveforms: sinusoid, phase modulation, frequency modulation, Arbitrary Waveform Generator (AWG)
-    - AWG memory depth: ">2 Msamples (2 s)"
-    - Dynamic range: ">60 dB (10 µA to 10 mA)"
-    - Precision / resolution: 16 bit, 1 µs, synchronous update
-    - Total harmonic distortion: <0.05%
-    - 2nd order intermodulation worst case: -70 dBc (typical use case: -90 dBc)
-    - Ground reference: '<span uk-icon="icon: check"></span>'
-    - Ground current monitoring: '<span uk-icon="icon: check"></span>'
-    - Monitoring - currents / voltages: yes synchronous sampling / logging of stimulation
-    - Electrode impedance detection: '<span uk-icon="icon: check"></span>'
-    - Emergency stop button: optical, suitable for MRI environments
-    - Safety: hardware-limited peak currents and voltages compliant with the safety concept
-    - Trigger input: yes (digital, optical)
-    - EEG level output of excitation envelope: yes (optical)
-    - Filtering - RF: yes, low pass filter >30 dB rejection plus 3T MRI signal traps
-    - Control unit: optical connection to host PC
-    - Optical serial port: connecting to EEG instrument
-    - Environment: 3T MRI, +5 to +40°C
+    - Number of Channels Per Unit: 8, fully differential (extendable)
+    - Trigger / Sync Output: External instrument and synchronization (optical)
+    - Sample Rate: 1 MSamples/s
+    - Waveforms: Sinusoid, phase modulation, frequency modulation, Arbitrary Waveform Generator (AWG)
+    - AWG Memory Depth: ">2 Msamples (2 s)"
+    - Dynamic Range: ">60 dB (10 µA to 10 mA)"
+    - Precision / Resolution: 16 bit, 1 µs, synchronous update
+    - Total Harmonic Distortion: <0.05%
+    - 2nd Order Intermodulation Worst Case: -70 dBc (typical use case: -90 dBc)
+    - Ground Reference: '<span uk-icon="icon: check"></span>'
+    - Ground Current Monitoring: '<span uk-icon="icon: check"></span>'
+    - Monitoring - Currents / Voltages: Yes synchronous sampling / logging of stimulation
+    - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
+    - Emergency Stop Button: Optical, suitable for MRI environments
+    - Safety: Hardware-limited peak currents and voltages compliant with the safety concept
+    - Trigger Input: Yes (digital, optical)
+    - EEG Level Output of Excitation Envelope: Yes (optical)
+    - Filtering - Radiofrequency: Yes, low pass filter >30 dB rejection plus 3T MRI signal traps
+    - Control Unit: Optical connection to host PC
+    - Optical Serial Port: Connecting to EEG instrument
+    - Environment: 3T MRI, +5 – +40°C
     - Instructions for use: '<span uk-icon="icon: check"></span>'
   image:
     src: /assets/img/TISAG_setup3.png
