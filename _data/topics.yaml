@@ -72,7 +72,7 @@
     - Dynamic Range: ">60 dB (10 µA to 10 mA)"
     - Precision / Resolution: 16 bit, 1 µs, synchronous update
     - Total Harmonic Distortion: <0.05%
-    - 2nd Order Intermodulation Worst Case: -70 dBc (typical use case: -90 dBc)
+    - 2nd Order Intermodulation Worst Case: "-70 dBc (typical use case: -90 dBc)"
     - Ground Reference: '<span uk-icon="icon: check"></span>'
     - Ground Current Monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - Currents / Voltages: Yes synchronous sampling / logging of stimulation
