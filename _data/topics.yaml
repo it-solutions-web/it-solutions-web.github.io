@@ -68,7 +68,7 @@
     - Trigger / Sync Output: External instrument and synchronization (optical)
     - Sample Rate: 1 MSamples/s
     - Waveforms: Sinusoid, phase modulation, frequency modulation, Arbitrary Waveform Generator (AWG)
-    - AWG Memory Depth: ">2 Msamples (2 s)(in future release only)"
+    - AWG Memory Depth: ">2 Msamples (2 s) (in future release only)"
     - Dynamic Range: ">60 dB (10 µA - 10 mA)"
     - Precision / Resolution: 16 bit, 1 µs, synchronous update
     - Total Harmonic Distortion: <0.05%
