@@ -86,6 +86,8 @@
     - Optical Serial Port: Connecting to EEG instrument
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
+  body: |
+   * compliant with the implemented safety concept (TI white paper, IEC standards)
   image:
     src: /assets/img/TISAG_setup3.png
     caption: Investigational Stimulation Device
