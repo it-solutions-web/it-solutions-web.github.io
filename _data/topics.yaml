@@ -1,7 +1,16 @@
 - title: News
   news:
+    - title: New Project: MRIcompLEAD
+      date: Dec 05, 2022
+      body: |
+        TI Solutions is part of the Innosuisse project “MRIcompLEAD". The project aims to develop novel leads for applications involving 
+        neurostimulation and functional magnetic resonance (MRI) imaging. The goal is to significantly outperform current solutions in terms 
+        of MRI-safety (no heating effects), MRI-compatibility (no imaging artifacts) and mechanical stability. The project officially 
+        started on December 1, 2022.
+    
+    
     - title: "TIBS-R & TIBS-R-MRI: Final Prototype of New TI Technology"
-      date: May, 20, 2022
+      date: May 20, 2022
       body: |
         Today, TI Solutions released a demo of the final prototype device for advanced research in temporal interference brain stimulation.
         The device, developed in collaboration with the IT’IS Foundation, delivers high-precision current on eight channels from 0 Hz to 
@@ -15,7 +24,7 @@
         
     
     - title: Professor Nir Grossman received award
-      date: August, 27, 2020
+      date: August 27, 2020
       body: |
         A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to
         accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. 
