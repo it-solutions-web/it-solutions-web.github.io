@@ -1,5 +1,17 @@
 - title: News
   news:
+  - title: "TIBS-R and TIBS-R-MRI: The Ultimate in Technology for TI"
+      date: Jan 05, 2023
+      body: |
+        Today, we release version 1.02 of TIBS-R, our advanced temporal interference brain stimulator for research. We look forward to 
+        engaging with those research groups who will receive devices through our Early Adopter Program, and we will continue working 
+        to optimize the device to facilitate the most advanced TI research. 
+        
+        <img src="/assets/img/2301_TIBS-R_web.jpg"/>
+        
+        For more information, including a short demo, visit <a href="https://itis.swiss/news-events/news/other-news/2023/tibs-r-v1-02-now-available-for-temporal-interference-research" target="_blank" >IT'IS website</a>.
+        
+        
     - title: "New Project: MRIcompLEAD"
       date: Dec 05, 2022
       body: |
