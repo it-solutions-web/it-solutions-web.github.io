@@ -51,9 +51,9 @@
 
 - title: TI Devices
   body: |
-   The neurostimulation devices under development will support both alternating current and TI stimulation, 
-   multiple stimulation channels, a wide carrier-frequency range, flexible modulation, magnetic resonance imaging 
-   and electroencephalogram recording compatibility, and more. 
+   The TIBS-R and TIBS-R-MRI neurostimulation devices support direct current (DC), alternating current and TI stimulation, 
+   up to 8 synchronous stimulation channels, a wide carrier-frequency range (DC – 100 kHz), sinusoidal to arbitrary modulation, 
+   synchronization with external triggers, compatibility with magnetic resonance imaging and electroencephalogram recordings, and more. 
    
 - title: TI Solutions Early Adopter Program (EAP)
   closed: true
@@ -79,7 +79,7 @@
   teaser: Continuously updated information about our TI devices can be found here.
    <h4 {Specifications}</h4>
   list:
-    - Preliminary Specifications:
+    - Specifications:
     - Frequency Range: DC - 100 kHz
     - Peak Output Voltage: ~±30 V (60 V differential; compliant with the implemented safety concept (TI white paper, IEC standards))
     - Peak Output Current: 5 mA max at ≤1.8 KHz, 7 mA max at 2.5 kHz, 14 mA max at ≥5 kHz (differential load capacitance compensation; compliant with the implemented safety concept)
