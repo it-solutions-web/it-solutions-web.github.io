@@ -120,13 +120,6 @@
    supports two channel configurations. Version 2.0 will add phase modulation and multi-channel target optimization. 
    Version 3.0 will add personalized modeling, allowing modeling of any anatomy and any electrode shape and placement.
    
-   The TI planning tools will provide high-quality visualization and optimization of alternating current and 
-   TI stimulation configurations based on electromagnetic simulations involving detailed, high-resolution representations 
-   of head anatomies of both humans and animals. Thanks to a state-of-the-art cloud-based modeling platform, simulations 
-   of complex and realistic setups can be performed without specialized software or hardware. A particular focus is placed 
-   on flexibility with regard to optimization criteria (for scientific exploration), good user guidance, and powerful visualization. 
-   In 2022, personalized modeling will be added that allows the modeling of any anatomy as well as any electrode shape and placement.
-   
 - title: Services
   body: |
    Our team will provide all engineering services required for the optimal application of the developed TI devices and 
