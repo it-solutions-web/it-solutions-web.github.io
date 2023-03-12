@@ -113,6 +113,13 @@
 
 - title: TI Planning Tools
   body: |
+   The TI planning tools are provided by the IT'IS Foundation for the optimization of electrode placements
+   on human and animal subjects, currents and modulations. The tools are user-friendly and present results in a powerful 
+   visualization. Users can also define different optimization criteria. Thanks to a state-of-the-art cloud-based modeling 
+   platform, simulations of complex and realistic setups can be performed without special software or hardware. Version 1.0 
+   supports two channel configurations. Version 2.0 will add phase modulation and multi-channel target optimization. 
+   Version 3.0 will add personalized modeling, allowing modeling of any anatomy and any electrode shape and placement.
+   
    The TI planning tools will provide high-quality visualization and optimization of alternating current and 
    TI stimulation configurations based on electromagnetic simulations involving detailed, high-resolution representations 
    of head anatomies of both humans and animals. Thanks to a state-of-the-art cloud-based modeling platform, simulations 
