@@ -111,9 +111,8 @@
     - End of Life: December 2030 or later
     - AWG: "arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter;" 
     - MRI: magnetic resonance imaging
-    
-  caption: "* compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
-  caption: "** minimal PC specifications (PC not included):<br />Lenovo ThinkCentre M70q Gen2<br /> Windows 10 Pro 64bit, EN<br />Processor: Intel Core i5 11th Gen, 1.3GHz (max 3.7GHz)<br />Memory: 16GB DDR4-RAM @ 2666MHz<br />Storage: 512GB SSD<br />Graphics: Integrated Graphics, Intel UHD Graphics<br />Video Connections: 1xDisplay Port, 1xHDMI<br />Network: Ethernet Controller, WiFi and Bluetooth<br />PC form factor: Small Form<br />Weight: 3.87kg"
+    caption: "* compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
+    caption: "** minimal PC specifications (PC not included):<br />Lenovo ThinkCentre M70q Gen2<br /> Windows 10 Pro 64bit, EN<br />Processor: Intel Core i5 11th Gen, 1.3GHz (max 3.7GHz)<br />Memory: 16GB DDR4-RAM @ 2666MHz<br />Storage: 512GB SSD<br />Graphics: Integrated Graphics, Intel UHD Graphics<br />Video Connections: 1xDisplay Port, 1xHDMI<br />Network: Ethernet Controller, WiFi and Bluetooth<br />PC form factor: Small Form<br />Weight: 3.87kg"
 
   image:
     src: /assets/img/TISAG_setup3.png
