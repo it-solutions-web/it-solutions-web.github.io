@@ -82,9 +82,7 @@
     - Specifications:
     - Frequency Range: DC - 100 kHz
     - Peak Output Voltage: ~±30 V (60 V differential*)
-    - Peak Output Current: 5 mA max at ≤1.8 kHz*
-        7 mA max at 2.5 kHz*
-        14 mA max at ≥5 kHz* (differential load capacitance compensation)
+    - Peak Output Current: 5 mA max at ≤1.8 kHz*<br />7 mA max at 2.5 kHz*<br />14 mA max at ≥5 kHz* (differential load capacitance compensation)
     - Battery Run Time: ">4 hrs active use"
     - Charging: USB-C
     - Number of Channels Per Unit: 8, fully differential (extendable)
