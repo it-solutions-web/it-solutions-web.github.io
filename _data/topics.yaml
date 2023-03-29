@@ -81,8 +81,8 @@
   list:
     - Specifications:
     - Frequency Range: DC - 100 kHz
-    - Peak Output Voltage: ~±30 V (60 V differential*)
-    - Peak Output Current: 5 mA max at ≤1.8 kHz*<br />7 mA max at 2.5 kHz*<br />14 mA max at ≥5 kHz* (differential load capacitance compensation)
+    - Peak Output Voltage: "~±30 V (60 V differential[^1*])"
+    - Peak Output Current: 5 mA max at ≤1.8 kHz[^1*]<br />7 mA max at 2.5 kHz[^1*]<br />14 mA max at ≥5 kHz[^1*] (differential load capacitance compensation)
     - Battery Run Time: ">4 hrs active use"
     - Charging: USB-C
     - Number of Channels Per Unit: 8, fully differential (extendable)
@@ -99,11 +99,11 @@
     - Monitoring - Currents / Voltages: Yes, synchronous sampling / logging of stimulation
     - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
     - Emergency Stop Button: Optical, suitable for MRI environments
-    - Safety: "Hardware-limited peak currents and voltages*"
+    - Safety: "Hardware-limited peak currents and voltages[^1*]"
     - Trigger Input: Yes (digital, optical)
     - EEG Level Output of Excitation Envelope: Yes (optical)
     - Filtering - Radiofrequency: "Yes, LPF >30 dB rejection plus 3T MRI signal traps"
-    - Control Unit: "Optical connection to host PC**"
+    - Control Unit: "Optical connection to host PC[^1**]"
     - Scripting: Python, MATLAB (others on request)
     - Optical Serial Port: Connecting to EEG instrument
     - Environment: 3T MRI, +5 – +40°C
