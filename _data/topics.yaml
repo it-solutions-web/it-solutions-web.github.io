@@ -109,7 +109,7 @@
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
     - End of Life: December 2030 or later
-    - AWG: arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter; 
+    - AWG: "arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter;" 
     - MRI: magnetic resonance imaging
   image:
     src: /assets/img/TISAG_setup3.png
