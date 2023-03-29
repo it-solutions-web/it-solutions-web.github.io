@@ -88,7 +88,7 @@
     - Number of Channels Per Unit: 8, fully differential (extendable)
     - Trigger / Sync Output: External instrument and synchronization (optical)
     - Sample Rate: 1 MSamples/s
-    - Waveforms: Sinusoid, phase modulation, frequency modulation, Arbitrary Waveform Generator (AWG)
+    - Waveforms: Sinusoid, phase modulation, frequency modulation, AWG
     - AWG Memory Depth: ">2 Msamples (2 s) (in future release only)"
     - Dynamic Range: ">60 dB (10 µA - 10 mA)"
     - Precision / Resolution: 16 bit, 1 µs, synchronous update
@@ -99,14 +99,18 @@
     - Monitoring - Currents / Voltages: Yes, synchronous sampling / logging of stimulation
     - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
     - Emergency Stop Button: Optical, suitable for MRI environments
-    - Safety: Hardware-limited peak currents and voltages (compliant with the implemented safety concept)
+    - Safety: Hardware-limited peak currents and voltages*
     - Trigger Input: Yes (digital, optical)
     - EEG Level Output of Excitation Envelope: Yes (optical)
-    - Filtering - Radiofrequency: Yes, low pass filter >30 dB rejection plus 3T MRI signal traps
-    - Control Unit: Optical connection to host PC
+    - Filtering - Radiofrequency: Yes, LPF >30 dB rejection plus 3T MRI signal traps
+    - Control Unit: Optical connection to host PC**
+    - Scripting: Python, MATLAB (others on request)
     - Optical Serial Port: Connecting to EEG instrument
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
+    - End of Life: December 2030 or later
+    - AWG: arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter; 
+    - MRI: magnetic resonance imaging
   image:
     src: /assets/img/TISAG_setup3.png
     caption: Investigational Stimulation Device
