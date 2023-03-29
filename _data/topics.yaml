@@ -99,7 +99,7 @@
     - Monitoring - Currents / Voltages: Yes, synchronous sampling / logging of stimulation
     - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
     - Emergency Stop Button: Optical, suitable for MRI environments
-    - Safety: Hardware-limited peak currents and voltages*
+    - Safety: "Hardware-limited peak currents and voltages*"
     - Trigger Input: Yes (digital, optical)
     - EEG Level Output of Excitation Envelope: Yes (optical)
     - Filtering - Radiofrequency: Yes, LPF >30 dB rejection plus 3T MRI signal traps
