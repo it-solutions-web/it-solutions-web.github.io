@@ -109,8 +109,8 @@
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
     - End of Life: December 2030 or later
-    - AWG: "arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter;" 
-    - MRI: "magnetic resonance imaging"
+    - AWG: "Arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter;" 
+    - MRI: "Magnetic resonance imaging"
 
   footnotes:
     - "<sup>*</sup> compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
