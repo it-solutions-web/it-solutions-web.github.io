@@ -82,7 +82,7 @@
     - Specifications:
     - Frequency Range: DC - 100 kHz
     - Peak Output Voltage: "~±30 V (60 V differential*)"
-    - Peak Output Current: 5 mA max at ≤1.8 kHz*<br />7 mA max at 2.5 kHz*<br />14 mA max at ≥5 kHz* (differential load capacitance compensation)
+    - Peak Output Current: 5 mA max at ≤1.8 kHz<sup>*</sup><br />7 mA max at 2.5 kHz<sup>*</sup><br />14 mA max at ≥5 kHz<sup>*</sup> (differential load capacitance compensation)
     - Battery Run Time: ">4 hrs active use"
     - Charging: USB-C
     - Number of Channels Per Unit: 8, fully differential (extendable)
@@ -98,22 +98,23 @@
     - Ground Current Monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - Currents / Voltages: Yes, synchronous sampling / logging of stimulation
     - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
-    - Emergency Stop Button: Optical, suitable for MRI environments
+    - Emergency Stop Button: Optical, suitable for MRI environments<sup>1</sup>
     - Safety: "Hardware-limited peak currents and voltages*"
     - Trigger Input: Yes (digital, optical)
     - EEG Level Output of Excitation Envelope: Yes (optical)
     - Filtering - Radiofrequency: "Yes, LPF >30 dB rejection plus 3T MRI signal traps"
-    - Control Unit: "Optical connection to host PC**"
+    - Control Unit: "Optical connection to host PC<sup>**</sup>"
     - Scripting: Python, MATLAB (others on request)
     - Optical Serial Port: Connecting to EEG instrument
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
     - End of Life: December 2030 or later
     - AWG: "arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter;" 
-    - MRI: "magnetic resonance imaging"  
-    
+    - MRI: "magnetic resonance imaging"
+
   footnotes:
-    "* compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)<br />** minimal PC specifications (PC not included):<br />Lenovo ThinkCentre M70q Gen2<br /> Windows 10 Pro 64bit, EN<br />Processor: Intel Core i5 11th Gen, 1.3GHz (max 3.7GHz)<br />Memory: 16GB DDR4-RAM @ 2666MHz<br />Storage: 512GB SSD<br />Graphics: Integrated Graphics, Intel UHD Graphics<br />Video Connections: 1xDisplay Port, 1xHDMI<br />Network: Ethernet Controller, WiFi and Bluetooth<br />PC form factor: Small Form<br />Weight: 3.87kg"
+    - "<sup>*</sup> compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
+    - "<sup>**</sup> minimal PC specifications (PC not included):<br />Lenovo ThinkCentre M70q Gen2<br /> Windows 10 Pro 64bit, EN<br />Processor: Intel Core i5 11th Gen, 1.3GHz (max 3.7GHz)<br />Memory: 16GB DDR4-RAM @ 2666MHz<br />Storage: 512GB SSD<br />Graphics: Integrated Graphics, Intel UHD Graphics<br />Video Connections: 1xDisplay Port, 1xHDMI<br />Network: Ethernet Controller, WiFi and Bluetooth<br />PC form factor: Small Form<br />Weight: 3.87kg"
  
   image:
     src: /assets/img/TISAG_setup3.png
