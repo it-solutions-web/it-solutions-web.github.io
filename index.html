@@ -38,6 +38,13 @@ layout: plain
                             <td class="uk-table-expand">{{ item[1] }}</td></tr>
                     {% endfor %}
                 {% endfor %}
+                {% if topic.footnotes %}
+                <tr><td colspan="2">Footnotes</td></tr>
+                <tr><td></td><td>
+                {% for note in topic.footnotes %}
+                    <div>{{ item[0] }}</div>
+                {% endfor %}
+                </td></tr>
             </table>
             {% endif %}
             {% if topic.image %}
