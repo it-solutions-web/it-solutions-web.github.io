@@ -39,8 +39,7 @@ layout: plain
                     {% endfor %}
                 {% endfor %}
                 {% if topic.footnotes %}
-                <tr><td colspan="2">Footnotes</td></tr>
-                <tr><td></td><td>
+                <tr><td colspan="2">Footnotes<br/><br/>
                 {% for note in topic.footnotes %}
                     <p><small>{{ note }}</small></p>
                 {% endfor %}
