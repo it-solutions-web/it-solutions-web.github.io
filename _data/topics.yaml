@@ -91,15 +91,17 @@
   list:
     - Specifications:
     - Frequency Range: DC - 100 kHz
-    - Peak Output Voltage: "~±30 V (60 V differential*)"
-    - Peak Output Current: 5 mA max at ≤1.8 kHz<sup>*</sup><br />7 mA max at 2.5 kHz<sup>*</sup><br />14 mA max at ≥5 kHz<sup>*</sup> (differential load capacitance compensation)
+    - Peak Output Voltage: "52 V differential*"
+    - Peak Output Current: 5 mA max at ≤1.8 kHz<sup>*</sup><br />7 mA max at 2.5 kHz<sup>*</sup><br />14 mA max at ≥5 kHz<sup>*</sup>
     - Battery Run Time: ">4 hrs active use"
     - Charging: USB-C
-    - Number of Channels Per Unit: 8, fully differential (extendable)
+    - Number of Channels Per Unit: 8, fully differential
     - Trigger / Sync Output: External instrument and synchronization (optical)
+    - Trigger Input: Yes (digital, optical)
+    - EEG Level Output of Excitation Envelope: Yes (optical)
     - Sample Rate: 1 MSamples/s
-    - Waveforms: Sinusoid, phase modulation, frequency modulation, AWG
-    - AWG Memory Depth: ">2 Msamples (2 s) (in future release only)"
+    - Waveforms: Sinusoid, phase modulation, frequency modulation, AWG<sup>*</sup>
+    - AWG Memory Depth: ">2 Msamples (2 s)**"
     - Dynamic Range: ">60 dB (10 µA - 10 mA)"
     - Precision / Resolution: 16 bit, 1 µs, synchronous update
     - Total Harmonic Distortion: <0.05%
@@ -110,12 +112,10 @@
     - Electrode Impedance Detection: '<span uk-icon="icon: check"></span>'
     - Emergency Stop Button: Optical, suitable for MRI environments
     - Safety: "Hardware-limited peak currents and voltages*"
-    - Trigger Input: Yes (digital, optical)
-    - EEG Level Output of Excitation Envelope: Yes (optical)
-    - Filtering - Radiofrequency: "Yes, LPF >30 dB rejection plus 3T MRI signal traps"
-    - Control Unit: "Optical connection to host PC<sup>**</sup>"
+    - MRI Compatibility: "Yes, LPF >30 dB rejection plus 3T MRI signal traps (TIBS-R-MRI only)"
+    - EEG Compatibility: "Brain Products, Geodesic (3rd party solutions)"
+    - Control Unit: "Optical connection to host PC"
     - Scripting: Python, MatLab (others on request)
-    - Optical Serial Port: Connecting to EEG instrument
     - Environment: 3T MRI, +5 – +40°C
     - Instructions for Use: '<span uk-icon="icon: check"></span>'
     - End of Life: December 2030 or later
