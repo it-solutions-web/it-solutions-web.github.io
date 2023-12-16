@@ -109,7 +109,7 @@
     - Ground Reference: '<span uk-icon="icon: check"></span>'
     - Ground Current Monitoring: '<span uk-icon="icon: check"></span>'
     - Monitoring - Currents / Voltages: Yes, synchronous sampling / logging of stimulation
-    - Electrode Impedance Detection: "Yes (online)"
+    - Electrode Impedance Detection: Yes (online)
     - Emergency Stop Button: Optical, suitable for MRI environments
     - Safety: "Hardware-limited peak currents and voltages*"
     - MRI Compatibility: "Yes, LPF >30 dB rejection plus 3T MRI signal traps (TIBS-R-MRI only)"
@@ -123,7 +123,7 @@
   footnotes:
     - "AWG: arbitrary waveform generator; EEG: electroencephalogram; LPF: low pass filter; MRI: magnetic resonance imging" 
     - "<sup>*</sup> compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
-    - "<sup>**</sup> in future release only
+    - "<sup>**</sup> in future release only"
     - "minimal PC specifications (PC not included):<br />Lenovo ThinkCentre M70q Gen2<br /> Windows 10 Pro 64bit, EN<br />Processor: Intel Core i5 11th Gen, 1.3 GHz (max 3.7 GHz)<br />Memory: 16GB DDR4-RAM @ 2666 MHz<br />Storage: 512 GB SSD<br />Graphics: Integrated Graphics, Intel UHD Graphics<br />Video Connections: 1xDisplay Port, 1xHDMI<br />Network: Ethernet Controller, WiFi and Bluetooth<br />PC form factor: Small Form<br />Weight: 3.87 kg"
  
   image:
