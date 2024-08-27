@@ -135,9 +135,9 @@
   footnotes:
     - "AWG: arbitrary waveform generator; EEG: electroencephalogram; MRI: magnetic resonance imging; WPT-TX/RX: wireless power transfer option"
     - "* in future release only"
-    - "** compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
-    - "# EEG solution provided by the IT'IS Foundation"
-    - "Minimal PC specifications (PC not included): Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
+    - "** compliant with implemented safety concept (<a href="https://www.biorxiv.org/content/10.1101/2022.12.15.520077v2" target="_blank" >Cassara’ AM et al. bioRxiv. 2022.12.15.520077</a>; IEC standards)"
+    - "# EEG solution provided by the <a href="https://www.itis.swiss" target="_blank" >IT'IS Foundation</a>"
+    - "Minimal PC specifications (PC not included):<br />Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
  
   image:
     src: /assets/img/TISAG_setup3.png
