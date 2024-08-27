@@ -100,7 +100,7 @@
    <h4 {Specifications}</h4>
   list:
     - Specifications:
-    - Frequency Range: DC - 100 kHz
+    - Frequency Range: DC – 100 kHz
     - Waveforms: Sinusoid, phase modulation, frequency modulation, AWG*
     - Number of Channels Per Unit: 8 synchronized, fully differential
     - EEG Compatibility: "Brain Products, Geodesic#"
