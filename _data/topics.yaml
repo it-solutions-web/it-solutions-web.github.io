@@ -98,15 +98,14 @@
    
    The specifications of the device are summarized <a class="uk-link-text" href="/#topic4" uk-scroll="offset: 120" >here<a>.
  
-- title: Device Description
+  - title: Device Description
   closed: true
   button: Details
-  teaser: Continuously updated information about our TI devices can be found here. 
+  teaser: Continuously updated information about our TI devices can be found here.
    <h4 {Specifications}</h4>
-  
   list:
     - Specifications:
-    - Frequency Range: "DC – 100 kHz"
+    - Frequency Range: DC - 100 kHz
     - Waveforms: Sinusoid, phase modulation, frequency modulation, AWG*
     - Number of Channels Per Unit: 8 synchronized, fully differential
     - EEG Compatibility: "Brain Products, Geodesic#"
@@ -137,12 +136,11 @@
     - Instructions for Use: "Yes"
     - IP Protection (Patents): US 10173061, 10905878,11759634<br />EP 3204113, only in FR, DE, GB, IT, ES, FI, DK, BE, NL, CH and LI, CZ
     - End of Life: December 2030 or later
-  
   footnotes:
     - "AWG: arbitrary waveform generator; EEG: electroencephalogram; MRI: magnetic resonance imging; WPT-TX/RX: wireless power transfer option"
     - "* in future release only"
-    - "** compliant with implemented safety concept (<a href="https://www.biorxiv.org/content/10.1101/2022.12.15.520077v2" target="_blank" >Cassara’ AM et al. bioRxiv. 2022.12.15.520077</a>; IEC standards)"
-    - "# EEG solution provided by the <a href="https://itis.swiss/" target="_blank" >IT'IS Foundation</a>"
+    - "** compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
+    - "# EEG solution provided by the IT'IS Foundation"
     - "Minimal PC specifications (PC not included): Windows 11 Pro, 16 GB RAM, UHD graphics, USB-C"
   
   image:
