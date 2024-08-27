@@ -83,9 +83,9 @@
     to specifically foster TI research.
 - title: TI Devices
   body: |
-   The TIBS-R and TIBS-R-MRI neurostimulation devices support direct current (DC), alternating current and TI stimulation, 
+   The TIBS-R neurostimulation devices support direct current (DC), alternating current and TI stimulation, 
    up to 8 synchronous stimulation channels, a wide carrier-frequency range (DC – 100 kHz), sinusoidal to arbitrary modulation, 
-   synchronization with external triggers, compatibility with magnetic resonance imaging and electroencephalogram recordings, and more. 
+   synchronization with external triggers, compatibility with electroencephalogram recordings, and more. 
    
 - title: TI Solutions Early Adopter Program (EAP)
   closed: true
@@ -99,7 +99,7 @@
    
    **Note that each study admitted to the program must provide proof that the study has gained ethics approval from the appropriate regulatory institution as a prerequisite for receiving the TI stimulation device for the proposed research project.**
    
-   The TI devices are continuously improved and their functions extended. Groups that are part of the EAP can lease a 8-channel device for CHF 500 / month; maintenance and support is included in the lease price. The MRI-compatible version is also available at an additional cost of CHF 100 per month. Options of additional hardware for EEG compatibilty and for continuous operation using wireless power transfer are available upon special request. The minimal lease period is six months.
+   The TI devices are continuously improved and their functions extended. Groups that are part of the EAP can lease a 8-channel device for CHF 500 / month; maintenance and support is included in the lease price. Options for MRI-compatibility, additional hardware for EEG compatibilty and for continuous operation using wireless power transfer are available upon special request. The minimal lease period is six months.
    <h4>Additional Services</h4>
    The <a href="https://www.itis.swiss/" target="_blank" >IT’IS Foundation</a> offers specialized services for the development of experiment-specific graphical user interfaces to support TI planning and simulations and provides guidance on research protocols and experimental design as needed.
    
@@ -149,7 +149,6 @@
     - "** compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
     - "# EEG solution provided by the IT'IS Foundation"
     - "Minimal PC specifications (PC not included): Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
-    - "Minimal PC specifications (PC not included):<br />Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
 
   image:
     src: /assets/img/TISAG_setup3.png
@@ -160,8 +159,8 @@
    The TI planning tool is provided by the <a href="https://itis.swiss/tools-and-systems/ti-planning/" target="_blank" >IT'IS Foundation</a>
    for the optimization of electrode placements on human and animal subjects, currents and modulations. The tools are user-friendly and 
    present results in a powerful visualization. Users can also define different optimization criteria. Thanks to a state-of-the-art cloud-based 
-   modeling platform, simulations of complex and realistic setups can be performed without special software or hardware. Version 1.0 
-   supports two channel configurations. Version 2.0 will add phase modulation and multi-channel target optimization. Version 3.0 will add
+   modeling platform, simulations of complex and realistic setups can be performed without special software or hardware. Version 2.2 
+   supports two channel configurations, and phase modulation and multi-channel target optimization. Version 3.0 will add
    personalized modeling, allowing modeling of any anatomy and any electrode shape and placement.
    
 - title: Services
@@ -173,7 +172,7 @@
     
 - title: The Science
   body: |
-   TI stimulation is a noninvasive technique that uses scalp electrodes to apply interfering electrical
+   TI stimulation is a non-invasive technique that uses scalp electrodes to apply interfering electrical
    high-frequency currents to reach structures deep inside the brain. While the applied frequencies of the electric fields themselves 
    are too high to induce neural firing, the frequency of the envelop can drive neural activity. This new concept holds great promise 
    for both research and clinics as it may open up new experimental opportunities and may be used for selective deep brain stimulation 
