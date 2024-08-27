@@ -1,14 +1,19 @@
 - title: News
   news:
-    - title: "Electroencephalography Recording during TI Stimulation"
-      date: Feb 20, 2024
+    - title: "TIBS-R V3.0: Leading Stimulator Performance for Artifact-free EEG and Closed-Loop Protocols"
+      date: Aug 27, 2024
       body: |
-        Our partner, the IT’IS Foundation, has released a new filter solution that allows uncompromised concurrent high-density electroencephalography 
-        (EEG) recording during closed-loop temporal interference stimulation with our TIBS-R system. Filters are available for 128 and 256 channel 
-        Electrical Geodesics, Inc. (EGI) EEG systems and 32-channel modules are available for the systems of BrainProducts. Read more on the IT’IS 
-        <a href="https://itis.swiss/s/news-events/news/news/2023-2/new-high-end-filters-for-concurrent-hd-eeg-recording-and-ti-stimulation" target="_blank" >website</a>.
-        
-        <img src="/assets/img/2402_TI_HPF_visual_mm.jpg"/>
+        TIBS-R V3.0 has been released! The device is certified for electrical safety according to IEC 60601-1:2005 + A1:2012 + A2:2020 and has several
+        important enhancements:
+        Improved performance in the presence of large variations in electrode contact quality
+        Markedly reduced second-order intermodulation products (IM2): when paired with the  <a href="https://itis.swiss/s/news-events/news/news/2023-2/new-high-end-filters-for-concurrent-hd-eeg-recording-and-ti-stimulation" target="_blank" >IT’IS electroencephalography (EEG) filter solution</a>, IM2 
+        products are reduced to well below the EEG noise floor (<30nV)
+        New possibilities for EEG-based closed-loop stimulation protocols
+        New wireless charging option that extends stimulator run time, e.g., for overnight experiments
+
+        This update will be made available immediately to all researchers in our Early Adopter Program.
+               
+        <img src="/assets/img/20240827_TIBS-R_V3.0.jpg"/>
     
     - title: "TIBS-R V2.0: Phase Modulation for Shaping Interference"
       date: Aug 03, 2023
