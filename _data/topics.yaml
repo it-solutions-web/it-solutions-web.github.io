@@ -89,7 +89,7 @@
 
   image:
     src: /assets/img/2303_TISAG_device_setup_visual_web.jpg
-    caption: The TIBS-R system, consisting of the Intelligent Current Source (left) which delivers precise currents to up to eight electrode pairs via an Electrode Connection Box,
+    footnotes: The TIBS-R system, consisting of the Intelligent Current Source (left) which delivers precise currents to up to eight electrode pairs via an Electrode Connection Box,
              a computer, two emergency stops, and electrical trigger inputs and outputs, all connected via an optical interface. Any type of experimental protocol can be scripted
              by means of the Application Programming Interface, and all relevant information (stimulation protocol, currents, voltages, impedances, inputs)
              is continuously recorded and displayed in a standardized monitoring window.
