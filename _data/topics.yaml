@@ -13,68 +13,7 @@
         This update will be made available immediately to all researchers in our Early Adopter Program.
         
         <img src="/assets/img/20240827_TIBS-R_V3.0.jpg"/>
-    
-    - title: "Electroencephalography Recording during TI Stimulation"
-      date: Feb 20, 2024
-      body: |
-        Our partner, the IT’IS Foundation, has released a new filter solution that allows uncompromised concurrent high-density electroencephalography 
-        (EEG) recording during closed-loop temporal interference stimulation with our TIBS-R system. Filters are available for 128 and 256 channel 
-        Electrical Geodesics, Inc. (EGI) EEG systems and 32-channel modules are available for the systems of BrainProducts. Read more on the IT’IS 
-        <a href="https://itis.swiss/s/news-events/news/news/2023-2/new-high-end-filters-for-concurrent-hd-eeg-recording-and-ti-stimulation" target="_blank" >website</a>.
-        
-        <img src="/assets/img/2402_TI_HPF_visual_mm.jpg"/>
-    
-    - title: "TIBS-R V2.0: Phase Modulation for Shaping Interference"
-      date: Aug 03, 2023
-      body: |
-        We are pleased to announce the release of TIBS-R V2.0, which offers multi-channel phase modulation, allowing researchers to generate
-        complex interference waveforms. This update will be made available to all researchers on our Early Adopter Program. If you are interested 
-        in the latest release of the corresponding TI planning tool, check out the <a href="https://itis.swiss/news-events/news/other-news/2023/tip-v2-0-multichannel-and-phase-modulation-ti/" target="_blank" >website</a> 
-        of our partner, the IT'IS Foundation.
-        
-        <img src="/assets/img/2308_TIBS-R_V2.0_mm.jpg"/>      
-    
-    - title: "TIBS-R and TIBS-R-MRI: The Ultimate in Technology for TI"
-      date: Jan 05, 2023
-      body: |
-        Today, we release version 1.02 of TIBS-R, our advanced temporal interference brain stimulator for research. We look forward to 
-        engaging with those research groups who will receive devices through our Early Adopter Program, and we will continue working 
-        to optimize the device to facilitate the most advanced TI research. 
-        
-        <img src="/assets/img/2301_TIBS-R_web.jpg"/>
-        
-        For more information, including a short demo, visit <a href="https://itis.swiss/news-events/news/other-news/2023/tibs-r-v1-02-now-available-for-temporal-interference-research" target="_blank" >IT'IS website</a>.
-        
-        
-    - title: "New Project: MRIcompLEAD"
-      date: Dec 05, 2022
-      body: |
-        TI Solutions is part of the Innosuisse project “MRIcompLEAD". The project aims to develop novel leads for applications involving 
-        neurostimulation and functional magnetic resonance imaging (MRI). The goal is to significantly outperform current solutions in terms 
-        of MRI-safety (no heating effects), MRI-compatibility (no imaging artifacts) and mechanical stability. The project officially 
-        starts on February 1, 2023.
-    
-    
-    - title: "TIBS-R & TIBS-R-MRI: Final Prototype of New TI Technology"
-      date: May 20, 2022
-      body: |
-        Today, TI Solutions released a demo of the final prototype device for advanced research in temporal interference brain stimulation.
-        The device, developed in collaboration with the IT’IS Foundation, delivers high-precision current on eight channels from 0 Hz to 
-        100 kHz. In the next few weeks the team will finalize the documentation, obtain electrical safety certification, and 
-        define the end-to-end testing protocol to be applied for each device. In parallel, the IT’IS Foundation will be completing 
-        an example of the control and monitoring software and the TI planning tool. 
-    
-        <img src="/assets/img/2205_TI_stimulation_web.jpg"/>
-        
-        For more information, including a short demo, visit the <a href="https://itis.swiss/news-events/news/other-news/2022/tibs-r-and-tibs-r-mri-new-technology-for-temporal-interference-research" target="_blank" >IT'IS website</a>
-        
-    
-    - title: Professor Nir Grossman received award
-      date: August 27, 2020
-      body: |
-        A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to
-        accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. 
-        Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy">UK DRI website</a>. 
+     
 - title: The Company
   body: |
     TI Solutions AG develops high-quality and flexible stimulation devices and planning tools 
