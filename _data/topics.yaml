@@ -1,19 +1,14 @@
 - title: News
   news:
-    - title: "TIBS-R V3.0: Leading Stimulator Performance for Artifact-free EEG and Closed-Loop Protocols"
-      date: Aug 27, 2024
+    - title: "Electroencephalography Recording during TI Stimulation"
+      date: Feb 20, 2024
       body: |
-        TIBS-R V3.0 has been released! The device is certified for electrical safety according to IEC 60601-1:2005 + A1:2012 + A2:2020 and has several
-        important enhancements:
-        Improved performance in the presence of large variations in electrode contact quality
-        Markedly reduced second-order intermodulation products (IM2): when paired with the IT’IS electroencephalography (EEG) filter solution, IM2 
-        products are reduced to well below the EEG noise floor (<30nV)
-        New possibilities for EEG-based closed-loop stimulation protocols
-        New wireless charging option that extends stimulator run time, e.g., for overnight experiments
-
-        This update will be made available immediately to all researchers in our Early Adopter Program.
-               
-        <img src="/assets/img/20240827_TIBS-R_V3.0.jpg"/>
+        Our partner, the IT’IS Foundation, has released a new filter solution that allows uncompromised concurrent high-density electroencephalography 
+        (EEG) recording during closed-loop temporal interference stimulation with our TIBS-R system. Filters are available for 128 and 256 channel 
+        Electrical Geodesics, Inc. (EGI) EEG systems and 32-channel modules are available for the systems of BrainProducts. Read more on the IT’IS 
+        <a href="https://itis.swiss/s/news-events/news/news/2023-2/new-high-end-filters-for-concurrent-hd-eeg-recording-and-ti-stimulation" target="_blank" >website</a>.
+        
+        <img src="/assets/img/2402_TI_HPF_visual_mm.jpg"/>
     
     - title: "TIBS-R V2.0: Phase Modulation for Shaping Interference"
       date: Aug 03, 2023
@@ -66,14 +61,12 @@
         A team of researchers led by Professor Nir Grossman, UK DRI at Imperial College London, received an important award to
         accelerate the application of a new non-invasive deep brain stimulation therapy for people with Alzheimer’s disease. 
         Read more on the <a href="https://ukdri.ac.uk/news-and-events/uk-dri-researcher-awarded-1-5-million-to-trial-deep-brain-stimulation-therapy">UK DRI website</a>. 
-
 - title: The Company
   body: |
     TI Solutions AG develops high-quality and flexible stimulation devices and planning tools 
     for temporal interference (TI) research. The company was founded in December 2019 in Zurich, Switzerland, 
     by the creators of the TI concept in collaboration with <a href="https://www.z43.swiss/" target="_blank" >Z43</a> 
     to specifically foster TI research.
-
 - title: TI Devices
   body: |
    The TIBS-R and TIBS-R-MRI neurostimulation devices support direct current (DC), alternating current and TI stimulation, 
@@ -98,7 +91,7 @@
    
    The specifications of the device are summarized <a class="uk-link-text" href="/#topic4" uk-scroll="offset: 120" >here<a>.
  
-  - title: Device Description
+- title: Device Description
   closed: true
   button: Details
   teaser: Continuously updated information about our TI devices can be found here.
@@ -141,11 +134,12 @@
     - "* in future release only"
     - "** compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
     - "# EEG solution provided by the IT'IS Foundation"
-    - "Minimal PC specifications (PC not included): Windows 11 Pro, 16 GB RAM, UHD graphics, USB-C"
-  
+    - "Minimal PC specifications (PC not included): Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
+    - "Minimal PC specifications (PC not included):<br />Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
+
   image:
     src: /assets/img/TISAG_setup3.png
-    caption: Investigational TIBS-R Device
+    caption: Investigational Stimulation Device
 
 - title: TI Planning Tool
   body: |
