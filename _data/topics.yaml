@@ -142,7 +142,7 @@
     - "* in future release only"
     - "** compliant with implemented safety concept (Cassara’ AM et al. bioRxiv. 2022.12.15.520077; IEC standards)"
     - "# EEG solution provided by the IT'IS Foundation</a>
-    - "Minimal PC specifications (PC not included):<br />Win 11 Pro, 16 GB RAM, UHD graphics, USB-C"
+    - "Minimal PC specifications (PC not included):<br />Win 11 Pro, 16 GB RAM, UHD graphics, USBC"
  
   image:
     src: /assets/img/TISAG_setup3.png
